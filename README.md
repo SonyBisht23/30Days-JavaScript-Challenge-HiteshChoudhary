@@ -1,2 +1,2 @@
 # 30Days-JavaScript-Challenge-HiteshChoudhary
-This is a Complete 30 Days JavaScript Challenge host by #HiteshChoudhary Sir. Today (13/07/2024) onwards I am going to start this Series  and will Update till the last day of the Challenege..
+🚀 Join me in the 30 Days JavaScript Challenge hosted by #HiteshChoudhary! Starting July 13, 2024, I'll be tackling daily coding exercises to enhance my JavaScript skills. Follow my progress and let's learn together! 💻✨
